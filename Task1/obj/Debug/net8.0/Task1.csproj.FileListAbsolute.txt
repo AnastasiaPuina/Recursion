@@ -1,0 +1,15 @@
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\obj\Debug\net8.0\Task1.sourcelink.json
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\Artem\OneDrive\Рабочий стол\GeekBrains\Семинар1\Homeworks\Task1\obj\Debug\net8.0\ref\Task1.dll
